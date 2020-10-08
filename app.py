@@ -9,4 +9,5 @@ def hello_world():
 
 
 if __name__ == '__main__':
+    from GameOfLife_engine import main
     app.run()
