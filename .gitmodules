@@ -1,0 +1,3 @@
+[submodule "GameOfLife_engine"]
+    path = GameOfLife_engine
+    url = https://github.com/logicOnAbstractions/GameOfLife_engine.git
